@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+.venv/
+outputs/run_all.log
+data/raw/*
+data/processed/*
